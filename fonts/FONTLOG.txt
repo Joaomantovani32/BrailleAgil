@@ -1,0 +1,13 @@
+FONTLOG para BraillePT_v2
+
+Esta fonte é uma versão modificada da fonte original 'BraillePT'.
+As modificações incluem a inclusão de nocos símbolos e ajuste de caracteres conforme a grafia Braille do Brasil.
+
+Log de Alterações:
+11 de Novembro de 2025 - BrailleÁgil
+- Modificação do caractere â para a grafia do Português brasileiro
+- Adição de letras minúsculas
+- Adição de caracteres especiais
+
+Autores Originais:
+- Luis Rodrigues (https://lepix.org/braillept | lmf.rodrigues@gmail.com)
